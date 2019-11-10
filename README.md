@@ -1,3 +1,3 @@
-# BrainF\*ck Projects
+# BrainF Projects
 
 Just a bit of fun 
